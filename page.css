@@ -1,3 +1,4 @@
 /* page.css: prefix:pg */
-a.pg-header {
+.pg-header {
+  padding-top: 40px;
   }
