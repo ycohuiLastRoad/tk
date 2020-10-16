@@ -1,11 +1,21 @@
-body {
-  overflow-y: hidden;
+ /* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (orientation:landscape) {
+  body {
+      overflow-y: hidden;
   /* Hide scrollbar for IE, Edge and Firefox */
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
- }
- 
-  /* Hide scrollbar for Chrome, Safari and Opera */
-body::-webkit-scrollbar {
-  display: none;
+  }
+}
+@media screen and (orientation:vertical) {
+  body {
+      overflow-x: hidden;
+  /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
 }
