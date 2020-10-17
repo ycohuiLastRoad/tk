@@ -5,6 +5,7 @@ body::-webkit-scrollbar {
 
 .statusLogo {
  background-image: url("http://status.ivao.aero/639556.png");
+ background-size: auto; !important
  background-repeat: no-repeat;
  background-position: center center;
  opacity: 1;
