@@ -19,6 +19,19 @@
   margin-left: 0;
   margin-top: 50px;
 }
+.icon-ctr {
+   height: 33%;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -webkit-transform: translateY(-50%) translateX(-50%);
+   -ms-transform: translateY(-50%) translateX(-50%);
+   transform: translateY(-50%) translateX(-50%);
+   font-size: 50px;
+   line-height: 50px;
+   z-index: 2;
+}
+
 @media all and (min-width: 768px) {
   .start-screen-title {
     display: block;
