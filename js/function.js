@@ -1,5 +1,5 @@
 function cv() {
-  var x = document.getElementById("cHover");
+  var x = document.getElementsByClassName("cHover");
   if (x.innerHTML === "Sth can hAcK NASA") {
     x.innerHTML = "HTML";
   } else if (x.innerHTML === "詩,唔係呢個詩") {
