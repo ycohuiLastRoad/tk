@@ -9,7 +9,7 @@ function cvHtml() {
 function cvLangC() {
   var cvLangC = document.getElementById("cHoverLangC");
   if (cvLangC.innerHTML === "詩,唔係呢個詩") {
-    cvLangC.innerHTML = "language C";
+    cvLangC.innerHTML = "Language C";
   } else {
      cvLangC.innerHTML = "詩,唔係呢個詩"
   }
@@ -20,5 +20,13 @@ function cvExcel() {
     cvExcel.innerHTML = "Pure Excel";
   } else {
      cvExcel.innerHTML = "Not VBA"
+  }
+}
+function cvJs() {
+  var cvJs = document.getElementById("cHoverJs");
+  if (cvJs.innerHTML === "true === 1 output false") {
+    cvJs.innerHTML = "Javascript (which now using)";
+  } else {
+     cvJs.innerHTML = "true === 1 output false"
   }
 }
