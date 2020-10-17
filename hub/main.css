@@ -3,6 +3,15 @@ body::-webkit-scrollbar {
   display: none;
 }
 
+.statusLogo {
+ background-image: url("http://status.ivao.aero/639556.png");
+ background-repeat: no-repeat;
+ background-position: center center;
+ opacity: 1;
+ transform: scale(1);
+ transition: all 0.3s ease 0s;
+}
+
 @media screen and (orientation:landscape) {
   body {
       overflow-y: hidden;
