@@ -1,9 +1,9 @@
 function cvHtml() {
   var cvHtml = document.getElementById("cHoverHtml");
-  if (cvHtml.innerHTML === "Sth can hAcK NASA") {
+  if (cvHtml.innerHTML === "Something can hAcK NASA") {
     cvHtml.innerHTML = "HTML";
   } else {
-     cvHtml.innerHTML = "Sth can hAcK NASA"
+     cvHtml.innerHTML = "Something can hAcK NASA"
   }
 }
 function cvLangC() {
