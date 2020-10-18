@@ -4,6 +4,6 @@ function onBuilding() {
 //function cLopen() {
   //document.getElementById("changeLog").style.display = "block";
 //};
-//function cLclose{
+//function cLclose(){
   //document.getElementById("changeLog").style.display = "none";
 //};
