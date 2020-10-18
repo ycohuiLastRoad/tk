@@ -53,3 +53,7 @@ $(function(){
         $(".start-screen")[0].scrollLeft += scrollStep * up;
     });
 })
+
+function onBuilding() {
+  alert("It's Still on Building, Sorry!");
+  }
