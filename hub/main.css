@@ -13,6 +13,12 @@ body::-webkit-scrollbar {
  transition: all 0.3s ease 0s;
 }
 
+.imgCtr {
+ text-align: center;
+ display: block;
+ object-fit: contain;
+}
+
 @media screen and (orientation:landscape) {
   body {
       overflow-y: hidden;
