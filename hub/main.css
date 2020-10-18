@@ -28,6 +28,10 @@ body::-webkit-scrollbar {
   z-index: 10;
   background-color: #000000;
 }
+.rightImg {
+ float:right;
+}
+
 
 @media screen and (orientation:landscape) {
   body {
