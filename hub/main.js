@@ -1,9 +1,9 @@
 function onBuilding() {
   alert("It's Still on Building, Sorry!");
   }
-function openChangeLog() {
+function cLopen() {
   document.getElementById("changeLog").style.display = "block";
 }
-function closeChangeLog {
+function cLclose{
   document.getElementById("changeLog").style.display = "none";
 }
