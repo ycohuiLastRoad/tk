@@ -1,25 +1,48 @@
-/* accordion from w3school */
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 20px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
+.start-screen {
+  min-width: 100%;
+  height: 100%;
+  position: relative;
+  padding-bottom: 20px;
+}
+.start-screen-title {
+  position: fixed;
+  top: 20px;
+  left: 80px;
+  display: none;
+}
+[class*=tile-] {
+  -webkit-transform: scale(0.8);
+      -ms-transform: scale(0.8);
+          transform: scale(0.8);
+}
+.tiles-group {
+  margin-left: 0;
+  margin-top: 50px;
+}
+.icon-ctr {
+   height: 33%;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -webkit-transform: translateY(-50%) translateX(-50%);
+   -ms-transform: translateY(-50%) translateX(-50%);
+   transform: translateY(-50%) translateX(-50%);
+   font-size: 50px;
+   line-height: 50px;
+   z-index: 2;
 }
 
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.accordPanel {
-  padding: 0 18px;
-  background-color: white; 
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
+@media all and (min-width: 768px) {
+  .start-screen-title {
+    display: block;
+  }
+  .start-screen {
+    padding: 100px 80px 0 0;
+  }
+  .tiles-group {
+    left: 100px;
+  }
+  .tiles-group {
+    margin-left: 80px;
+  }
 }
