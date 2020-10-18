@@ -1,3 +1,3 @@
 function onBuilding() {
-  alert("It's Still on Building, Sorry!")
+  alert("It's Still on Building, Sorry!");
   }
