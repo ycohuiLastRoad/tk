@@ -1,0 +1,1277 @@
+﻿{
+    "Cathay": [
+        {
+            "Cathay Dragon (HDA/KA)": "Inbound",
+            "undefined": "Outbound",
+            "Cathay Pacific (CPA/CX)": "Inbound",
+            "Hong Kong Express (HKE/UO)": "Inbound"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0103",
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX0005",
+            "Hong Kong Express (HKE/UO)": "UO0033"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0111",
+            "undefined": "SPN",
+            "Cathay Pacific (CPA/CX)": "CX0008",
+            "Hong Kong Express (HKE/UO)": "UO0043"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0153",
+            "undefined": "RMQ",
+            "Cathay Pacific (CPA/CX)": "CX0008D",
+            "Hong Kong Express (HKE/UO)": "UO0123"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0169",
+            "undefined": "RMQ",
+            "Cathay Pacific (CPA/CX)": "CX0018",
+            "Hong Kong Express (HKE/UO)": "UO0181"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0207",
+            "undefined": "RMQ",
+            "Cathay Pacific (CPA/CX)": "CX0018D",
+            "Hong Kong Express (HKE/UO)": "UO0193"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0209",
+            "undefined": "NGB",
+            "Cathay Pacific (CPA/CX)": "CX0025",
+            "Hong Kong Express (HKE/UO)": "UO0227"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0213",
+            "undefined": "KMJ",
+            "Cathay Pacific (CPA/CX)": "CX0025D",
+            "Hong Kong Express (HKE/UO)": "UO0517"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0215",
+            "undefined": "TAK",
+            "Cathay Pacific (CPA/CX)": "CX0035",
+            "Hong Kong Express (HKE/UO)": "UO0523"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0223",
+            "undefined": "KOJ",
+            "Cathay Pacific (CPA/CX)": "CX0038",
+            "Hong Kong Express (HKE/UO)": "UO0547"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0227",
+            "undefined": "KOJ",
+            "Cathay Pacific (CPA/CX)": "CX0038D",
+            "Hong Kong Express (HKE/UO)": "UO0553"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0233",
+            "undefined": "DAD",
+            "Cathay Pacific (CPA/CX)": "CX0040",
+            "Hong Kong Express (HKE/UO)": "UO0559"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0241",
+            "undefined": "DAD",
+            "Cathay Pacific (CPA/CX)": "CX0042",
+            "Hong Kong Express (HKE/UO)": "UO0567"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0249",
+            "undefined": "DAD",
+            "Cathay Pacific (CPA/CX)": "CX0042D",
+            "Hong Kong Express (HKE/UO)": "UO0581"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0251",
+            "undefined": "CXR",
+            "Cathay Pacific (CPA/CX)": "CX0044",
+            "Hong Kong Express (HKE/UO)": "UO0585"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0265",
+            "undefined": "NGO",
+            "Cathay Pacific (CPA/CX)": "CX0044D",
+            "Hong Kong Express (HKE/UO)": "UO0585D"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0275",
+            "undefined": "NGO",
+            "Cathay Pacific (CPA/CX)": "CX0048",
+            "Hong Kong Express (HKE/UO)": "UO0593"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0294",
+            "undefined": "NGO",
+            "Cathay Pacific (CPA/CX)": "CX0051",
+            "Hong Kong Express (HKE/UO)": "UO0601"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0296",
+            "undefined": "FUK",
+            "Cathay Pacific (CPA/CX)": "CX0053",
+            "Hong Kong Express (HKE/UO)": "UO0619"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0309",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0055",
+            "Hong Kong Express (HKE/UO)": "UO0625"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0311",
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX0064",
+            "Hong Kong Express (HKE/UO)": "UO0627"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0323",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0066",
+            "Hong Kong Express (HKE/UO)": "UO0631"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0325",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0068",
+            "Hong Kong Express (HKE/UO)": "UO0639"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0348",
+            "undefined": "FUK",
+            "Cathay Pacific (CPA/CX)": "CX0071",
+            "Hong Kong Express (HKE/UO)": "UO0641"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0376",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0071X",
+            "Hong Kong Express (HKE/UO)": "UO0647"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0379",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0073",
+            "Hong Kong Express (HKE/UO)": "UO0651"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0381",
+            "undefined": "FUK",
+            "Cathay Pacific (CPA/CX)": "CX0078",
+            "Hong Kong Express (HKE/UO)": "UO0653X"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0383",
+            "undefined": "PUS",
+            "Cathay Pacific (CPA/CX)": "CX0081",
+            "Hong Kong Express (HKE/UO)": "UO0669"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0391",
+            "undefined": "CJU",
+            "Cathay Pacific (CPA/CX)": "CX0085",
+            "Hong Kong Express (HKE/UO)": "UO0674"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0433",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0087",
+            "Hong Kong Express (HKE/UO)": "UO0677"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0437",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0091",
+            "Hong Kong Express (HKE/UO)": "UO0687"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0441",
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0093",
+            "Hong Kong Express (HKE/UO)": "UO0689"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0451",
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0095",
+            "Hong Kong Express (HKE/UO)": "UO0703"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0453",
+            "undefined": "REP",
+            "Cathay Pacific (CPA/CX)": "CX0097",
+            "Hong Kong Express (HKE/UO)": "UO0705"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0453D",
+            "undefined": "REP",
+            "Cathay Pacific (CPA/CX)": "CX0099",
+            "Hong Kong Express (HKE/UO)": "UO0707"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0455",
+            "undefined": "HKT",
+            "Cathay Pacific (CPA/CX)": "CX0100",
+            "Hong Kong Express (HKE/UO)": "UO0713"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0457",
+            "undefined": "CNX",
+            "Cathay Pacific (CPA/CX)": "CX0104",
+            "Hong Kong Express (HKE/UO)": "UO0724"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0459",
+            "undefined": "HKT",
+            "Cathay Pacific (CPA/CX)": "CX0110",
+            "Hong Kong Express (HKE/UO)": "UO0754"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0483",
+            "undefined": "HKT",
+            "Cathay Pacific (CPA/CX)": "CX0110D",
+            "Hong Kong Express (HKE/UO)": "UO0764"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0485",
+            "undefined": "ISG",
+            "Cathay Pacific (CPA/CX)": "CX0124",
+            "Hong Kong Express (HKE/UO)": "UO0764D"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0491",
+            "undefined": "SHI",
+            "Cathay Pacific (CPA/CX)": "CX0126",
+            "Hong Kong Express (HKE/UO)": "UO0813"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0615",
+            "undefined": "OKA",
+            "Cathay Pacific (CPA/CX)": "CX0134",
+            "Hong Kong Express (HKE/UO)": "UO0815"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0617",
+            "undefined": "HIJ",
+            "Cathay Pacific (CPA/CX)": "CX0138",
+            "Hong Kong Express (HKE/UO)": "UO0821"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0619",
+            "undefined": "NGS",
+            "Cathay Pacific (CPA/CX)": "CX0144",
+            "Hong Kong Express (HKE/UO)": "UO0823"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0621",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0150",
+            "Hong Kong Express (HKE/UO)": "UO0831"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0623",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0156",
+            "Hong Kong Express (HKE/UO)": "UO0835"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0627",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0162",
+            "Hong Kong Express (HKE/UO)": "UO0837"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0634",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0170",
+            "Hong Kong Express (HKE/UO)": "UO0849"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0637",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0174",
+            "Hong Kong Express (HKE/UO)": "UO0851"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0641",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0176",
+            "Hong Kong Express (HKE/UO)": "UO0863"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0643",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0178",
+            "Hong Kong Express (HKE/UO)": "UO0871"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0651",
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX0188",
+            "Hong Kong Express (HKE/UO)": "UO0899"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0661",
+            "undefined": "HKG",
+            "Cathay Pacific (CPA/CX)": "CX0198",
+            "Hong Kong Express (HKE/UO)": "UO1764"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0663",
+            "undefined": "PUS",
+            "Cathay Pacific (CPA/CX)": "CX0198D",
+            "Hong Kong Express (HKE/UO)": "UO4999"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0663D",
+            "undefined": "",
+            "Cathay Pacific (CPA/CX)": "CX0216",
+            "Hong Kong Express (HKE/UO)": "UO8011"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0692",
+            "undefined": "HKG",
+            "Cathay Pacific (CPA/CX)": "CX0216D",
+            "Hong Kong Express (HKE/UO)": "UO8501"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0693",
+            "undefined": "PUS",
+            "Cathay Pacific (CPA/CX)": "CX0234",
+            "Hong Kong Express (HKE/UO)": "UO9674"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0703",
+            "undefined": "",
+            "Cathay Pacific (CPA/CX)": "CX0238",
+            "Hong Kong Express (HKE/UO)": "ZZZ"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0713",
+            "undefined": "FCO",
+            "Cathay Pacific (CPA/CX)": "CX0250"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0721",
+            "undefined": "DUB",
+            "Cathay Pacific (CPA/CX)": "CX0252"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0728",
+            "undefined": "PEK",
+            "Cathay Pacific (CPA/CX)": "CX0254"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0730",
+            "undefined": "MAD",
+            "Cathay Pacific (CPA/CX)": "CX0256"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0732",
+            "undefined": "BCN",
+            "Cathay Pacific (CPA/CX)": "CX0260"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0734",
+            "undefined": "PEK",
+            "Cathay Pacific (CPA/CX)": "CX0270"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0734D",
+            "undefined": "BRU",
+            "Cathay Pacific (CPA/CX)": "CX0278"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0749",
+            "undefined": "LGW",
+            "Cathay Pacific (CPA/CX)": "CX0282"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0761",
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX0288"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0781",
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX0292"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0789",
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX0306"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0791",
+            "undefined": "ZRH",
+            "Cathay Pacific (CPA/CX)": "CX0318"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0795",
+            "undefined": "PEK",
+            "Cathay Pacific (CPA/CX)": "CX0320"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0803",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0331"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0805",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0338"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0809",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0338D"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0811",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0347"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0813",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0354"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0821",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0354D"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0825",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0365"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0831",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0367"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0841",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0369"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0847",
+            "undefined": "ICN",
+            "Cathay Pacific (CPA/CX)": "CX0382"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0853",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0382D"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0855",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0391"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0857",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0401"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0863",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0403"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0875",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0405"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0877",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0407"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0883",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0411"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0891",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0415"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0893",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0417"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0897",
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0419"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0901",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0421"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0903",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0433"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0905",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0443"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0937",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0451"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0943",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0463"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0951",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0465"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0961",
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0469"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0993",
+            "undefined": "NGO",
+            "Cathay Pacific (CPA/CX)": "CX0473"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA0997",
+            "undefined": "NGO",
+            "Cathay Pacific (CPA/CX)": "CX0475"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA2111",
+            "undefined": "NGO",
+            "Cathay Pacific (CPA/CX)": "CX0479"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA2358",
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX0495"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA2361",
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX0499"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA2391X",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0501"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA2865",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0503"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA2871",
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX0505"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA2975",
+            "undefined": "CTS",
+            "Cathay Pacific (CPA/CX)": "CX0507"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA3381",
+            "undefined": "CTS",
+            "Cathay Pacific (CPA/CX)": "CX0509"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA3387",
+            "undefined": "MLE",
+            "Cathay Pacific (CPA/CX)": "CX0521"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA3389",
+            "undefined": "CMB",
+            "Cathay Pacific (CPA/CX)": "CX0521D"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA3491",
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0527"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA6661",
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0531"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA8003",
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0533"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA8296",
+            "undefined": "MAA",
+            "Cathay Pacific (CPA/CX)": "CX0539"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA8453",
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0543"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA8851",
+            "undefined": "HYD",
+            "Cathay Pacific (CPA/CX)": "CX0549"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA8911",
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0561"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "KA9401",
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0565"
+        },
+        {
+            "Cathay Dragon (HDA/KA)": "none",
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0581"
+        },
+        {
+            "undefined": "BOM",
+            "Cathay Pacific (CPA/CX)": "CX0583"
+        },
+        {
+            "undefined": "TLV",
+            "Cathay Pacific (CPA/CX)": "CX0597"
+        },
+        {
+            "undefined": "DEL",
+            "Cathay Pacific (CPA/CX)": "CX0597D"
+        },
+        {
+            "undefined": "BOM",
+            "Cathay Pacific (CPA/CX)": "CX0602"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0610"
+        },
+        {
+            "undefined": "DEL",
+            "Cathay Pacific (CPA/CX)": "CX0614"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0616"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0632"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0636"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0646"
+        },
+        {
+            "undefined": "CGK",
+            "Cathay Pacific (CPA/CX)": "CX0654"
+        },
+        {
+            "undefined": "SGN",
+            "Cathay Pacific (CPA/CX)": "CX0658"
+        },
+        {
+            "undefined": "DXB",
+            "Cathay Pacific (CPA/CX)": "CX0660"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0676"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0678"
+        },
+        {
+            "undefined": "BAH",
+            "Cathay Pacific (CPA/CX)": "CX0690"
+        },
+        {
+            "undefined": "JNB",
+            "Cathay Pacific (CPA/CX)": "CX0692"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0694"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX0696"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0698"
+        },
+        {
+            "undefined": "SGN",
+            "Cathay Pacific (CPA/CX)": "CX0700"
+        },
+        {
+            "undefined": "CGK",
+            "Cathay Pacific (CPA/CX)": "CX0702"
+        },
+        {
+            "undefined": "SUB",
+            "Cathay Pacific (CPA/CX)": "CX0708"
+        },
+        {
+            "undefined": "DPS",
+            "Cathay Pacific (CPA/CX)": "CX0710"
+        },
+        {
+            "undefined": "CGK",
+            "Cathay Pacific (CPA/CX)": "CX0712"
+        },
+        {
+            "undefined": "CPT",
+            "Cathay Pacific (CPA/CX)": "CX0714"
+        },
+        {
+            "undefined": "CGK",
+            "Cathay Pacific (CPA/CX)": "CX0716"
+        },
+        {
+            "undefined": "SGN",
+            "Cathay Pacific (CPA/CX)": "CX0718"
+        },
+        {
+            "undefined": "ORD",
+            "Cathay Pacific (CPA/CX)": "CX0726"
+        },
+        {
+            "undefined": "BOS",
+            "Cathay Pacific (CPA/CX)": "CX0734"
+        },
+        {
+            "undefined": "YYZ",
+            "Cathay Pacific (CPA/CX)": "CX0738"
+        },
+        {
+            "undefined": "YYZ",
+            "Cathay Pacific (CPA/CX)": "CX0746"
+        },
+        {
+            "undefined": "JFK",
+            "Cathay Pacific (CPA/CX)": "CX0748"
+        },
+        {
+            "undefined": "YVR",
+            "Cathay Pacific (CPA/CX)": "CX0750"
+        },
+        {
+            "undefined": "JFK",
+            "Cathay Pacific (CPA/CX)": "CX0764"
+        },
+        {
+            "undefined": "JFK",
+            "Cathay Pacific (CPA/CX)": "CX0766"
+        },
+        {
+            "undefined": "SEA",
+            "Cathay Pacific (CPA/CX)": "CX0776"
+        },
+        {
+            "undefined": "YVR",
+            "Cathay Pacific (CPA/CX)": "CX0780"
+        },
+        {
+            "undefined": "IAD",
+            "Cathay Pacific (CPA/CX)": "CX0784"
+        },
+        {
+            "undefined": "SFO",
+            "Cathay Pacific (CPA/CX)": "CX0792"
+        },
+        {
+            "undefined": "SFO",
+            "Cathay Pacific (CPA/CX)": "CX0794"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX0796"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX0807"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX0811"
+        },
+        {
+            "undefined": "JFK",
+            "Cathay Pacific (CPA/CX)": "CX0819"
+        },
+        {
+            "undefined": "EWR",
+            "Cathay Pacific (CPA/CX)": "CX0825"
+        },
+        {
+            "undefined": "SFO",
+            "Cathay Pacific (CPA/CX)": "CX0829"
+        },
+        {
+            "undefined": "MNL",
+            "Cathay Pacific (CPA/CX)": "CX0831"
+        },
+        {
+            "undefined": "MNL",
+            "Cathay Pacific (CPA/CX)": "CX0837"
+        },
+        {
+            "undefined": "MNL",
+            "Cathay Pacific (CPA/CX)": "CX0841"
+        },
+        {
+            "undefined": "MNL",
+            "Cathay Pacific (CPA/CX)": "CX0845"
+        },
+        {
+            "undefined": "MNL",
+            "Cathay Pacific (CPA/CX)": "CX0855"
+        },
+        {
+            "undefined": "CEB",
+            "Cathay Pacific (CPA/CX)": "CX0857"
+        },
+        {
+            "undefined": "CEB",
+            "Cathay Pacific (CPA/CX)": "CX0857D"
+        },
+        {
+            "undefined": "MNL",
+            "Cathay Pacific (CPA/CX)": "CX0859"
+        },
+        {
+            "undefined": "MNL",
+            "Cathay Pacific (CPA/CX)": "CX0861"
+        },
+        {
+            "undefined": "NRT",
+            "Cathay Pacific (CPA/CX)": "CX0865"
+        },
+        {
+            "undefined": "MAA",
+            "Cathay Pacific (CPA/CX)": "CX0873"
+        },
+        {
+            "undefined": "SYD",
+            "Cathay Pacific (CPA/CX)": "CX0879"
+        },
+        {
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0881"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0883"
+        },
+        {
+            "undefined": "MAA",
+            "Cathay Pacific (CPA/CX)": "CX0885"
+        },
+        {
+            "undefined": "MAA",
+            "Cathay Pacific (CPA/CX)": "CX0893"
+        },
+        {
+            "undefined": "TPE",
+            "Cathay Pacific (CPA/CX)": "CX0893D"
+        },
+        {
+            "undefined": "DEL",
+            "Cathay Pacific (CPA/CX)": "CX0899"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0902"
+        },
+        {
+            "undefined": "HAN",
+            "Cathay Pacific (CPA/CX)": "CX0906"
+        },
+        {
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX0912"
+        },
+        {
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX0918"
+        },
+        {
+            "undefined": "CTU",
+            "Cathay Pacific (CPA/CX)": "CX0922"
+        },
+        {
+            "undefined": "AMS",
+            "Cathay Pacific (CPA/CX)": "CX0926"
+        },
+        {
+            "undefined": "MIA",
+            "Cathay Pacific (CPA/CX)": "CX0930"
+        },
+        {
+            "undefined": "SIN",
+            "Cathay Pacific (CPA/CX)": "CX0934"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX0976"
+        },
+        {
+            "undefined": "DFW",
+            "Cathay Pacific (CPA/CX)": "CX2002"
+        },
+        {
+            "undefined": "MIA",
+            "Cathay Pacific (CPA/CX)": "CX2005"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX2018"
+        },
+        {
+            "undefined": "LCK",
+            "Cathay Pacific (CPA/CX)": "CX2022"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX2025"
+        },
+        {
+            "undefined": "ORD",
+            "Cathay Pacific (CPA/CX)": "CX2028"
+        },
+        {
+            "undefined": "AKL",
+            "Cathay Pacific (CPA/CX)": "CX2032"
+        },
+        {
+            "undefined": "KIX",
+            "Cathay Pacific (CPA/CX)": "CX2035"
+        },
+        {
+            "undefined": "NGO",
+            "Cathay Pacific (CPA/CX)": "CX2040"
+        },
+        {
+            "undefined": "CTS",
+            "Cathay Pacific (CPA/CX)": "CX2046"
+        },
+        {
+            "undefined": "CTS",
+            "Cathay Pacific (CPA/CX)": "CX2048"
+        },
+        {
+            "undefined": "DEL",
+            "Cathay Pacific (CPA/CX)": "CX2055"
+        },
+        {
+            "undefined": "SYD",
+            "Cathay Pacific (CPA/CX)": "CX2057"
+        },
+        {
+            "undefined": "SYD",
+            "Cathay Pacific (CPA/CX)": "CX2061"
+        },
+        {
+            "undefined": "MIA",
+            "Cathay Pacific (CPA/CX)": "CX2066"
+        },
+        {
+            "undefined": "DEL",
+            "Cathay Pacific (CPA/CX)": "CX2068"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX2074"
+        },
+        {
+            "undefined": "CGK",
+            "Cathay Pacific (CPA/CX)": "CX2081"
+        },
+        {
+            "undefined": "DAC",
+            "Cathay Pacific (CPA/CX)": "CX2083"
+        },
+        {
+            "undefined": "CGK",
+            "Cathay Pacific (CPA/CX)": "CX2087"
+        },
+        {
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX2091"
+        },
+        {
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX2093"
+        },
+        {
+            "undefined": "PVG",
+            "Cathay Pacific (CPA/CX)": "CX2097"
+        },
+        {
+            "undefined": "CKG",
+            "Cathay Pacific (CPA/CX)": "CX2099"
+        },
+        {
+            "undefined": "CKG",
+            "Cathay Pacific (CPA/CX)": "CX2146"
+        },
+        {
+            "undefined": "MIA",
+            "Cathay Pacific (CPA/CX)": "CX2162"
+        },
+        {
+            "undefined": "MIA",
+            "Cathay Pacific (CPA/CX)": "CX2190"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX2503"
+        },
+        {
+            "undefined": "DFW",
+            "Cathay Pacific (CPA/CX)": "CX2533"
+        },
+        {
+            "undefined": "LAX",
+            "Cathay Pacific (CPA/CX)": "CX2581"
+        },
+        {
+            "undefined": "PEK",
+            "Cathay Pacific (CPA/CX)": "CX2583"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX2865"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX2873"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX2881"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3108"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3116"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3128"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3128X"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3181"
+        },
+        {
+            "undefined": "KIJ",
+            "Cathay Pacific (CPA/CX)": "CX3185"
+        },
+        {
+            "undefined": "TSE",
+            "Cathay Pacific (CPA/CX)": "CX3191"
+        },
+        {
+            "undefined": "HKG",
+            "Cathay Pacific (CPA/CX)": "CX3218"
+        },
+        {
+            "undefined": "KUL",
+            "Cathay Pacific (CPA/CX)": "CX3239"
+        },
+        {
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX3242"
+        },
+        {
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX3248"
+        },
+        {
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX3253"
+        },
+        {
+            "undefined": "AKJ",
+            "Cathay Pacific (CPA/CX)": "CX3255"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX3259"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX3261"
+        },
+        {
+            "undefined": "WUH",
+            "Cathay Pacific (CPA/CX)": "CX3262"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX3263"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX3273"
+        },
+        {
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX3281"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX3283"
+        },
+        {
+            "undefined": "SHI",
+            "Cathay Pacific (CPA/CX)": "CX3291"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX3373"
+        },
+        {
+            "undefined": "SHI",
+            "Cathay Pacific (CPA/CX)": "CX3375"
+        },
+        {
+            "undefined": "",
+            "Cathay Pacific (CPA/CX)": "CX3387"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3397"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3401"
+        },
+        {
+            "undefined": "XMN",
+            "Cathay Pacific (CPA/CX)": "CX3403"
+        },
+        {
+            "undefined": "KHH",
+            "Cathay Pacific (CPA/CX)": "CX3491"
+        },
+        {
+            "undefined": "WTB",
+            "Cathay Pacific (CPA/CX)": "CX3492"
+        },
+        {
+            "undefined": "KIJ",
+            "Cathay Pacific (CPA/CX)": "CX3493"
+        },
+        {
+            "undefined": "YVR",
+            "Cathay Pacific (CPA/CX)": "CX3497"
+        },
+        {
+            "undefined": "CGO",
+            "Cathay Pacific (CPA/CX)": "CX3503"
+        },
+        {
+            "undefined": "HKG",
+            "Cathay Pacific (CPA/CX)": "CX6663"
+        },
+        {
+            "undefined": "KUL",
+            "Cathay Pacific (CPA/CX)": "CX8176"
+        },
+        {
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX8541"
+        },
+        {
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX8543"
+        },
+        {
+            "undefined": "HND",
+            "Cathay Pacific (CPA/CX)": "CX8547"
+        },
+        {
+            "undefined": "AKJ",
+            "Cathay Pacific (CPA/CX)": "CX8587"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX8614"
+        },
+        {
+            "undefined": "BKK",
+            "Cathay Pacific (CPA/CX)": "CX8702"
+        },
+        {
+            "undefined": "WUH",
+            "Cathay Pacific (CPA/CX)": "CX8855"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX9407"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX9410"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX9612"
+        },
+        {
+            "undefined": "MFM",
+            "Cathay Pacific (CPA/CX)": "CX9991"
+        },
+        {
+            "undefined": "SHI",
+            "Cathay Pacific (CPA/CX)": "CX9993"
+        },
+        {
+            "undefined": "",
+            "Cathay Pacific (CPA/CX)": "none"
+        }
+    ]
+}
