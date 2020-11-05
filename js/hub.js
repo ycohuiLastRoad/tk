@@ -66,3 +66,6 @@ function cLopen() {
 function cLclose(){
   document.getElementById("changeLog").style.display = "none";
 }
+function snqClose(){
+  document.getElementById("snqAccord").style.display = "none";
+}
