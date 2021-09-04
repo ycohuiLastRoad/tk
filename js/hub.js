@@ -66,6 +66,10 @@ function cLopen() {
 function cLclose(){
   document.getElementById("changeLog").style.display = "none";
 }
+function idChange(id) {
+    change = document.getElementById("id").style.display;
+    if(change == "none") { change = "block" } else { change = "none" };
+}
 function snqOpen(){
   document.getElementById("snqAccord").style.display = "block";
 }
