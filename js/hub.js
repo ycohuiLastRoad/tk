@@ -66,7 +66,7 @@ function cLopen() {
 function cLclose(){
   document.getElementById("changeLog").style.display = "none";
 }
-function idChg(ids) {
+function idChange(ids) {
     change = document.getElementById(ids);
     if(change.style.display == "none") {
         change.style.display = "block"
