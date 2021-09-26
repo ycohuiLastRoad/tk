@@ -1,0 +1,22 @@
+html, body, h1, h2, h3, h4, h5 {
+    font-family: "Raleway", sans-serif
+}
+
+body {
+    background-color: lightgray;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.padding-body {
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.subhead {
+    padding-left: 30px;
+}
