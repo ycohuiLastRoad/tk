@@ -1,0 +1,70 @@
+body {
+    font-family: 'Gemunu Libre';
+    background-color: #f1f1f1;
+}
+
+i:hover.fa-user-lock {
+    color: red;
+    transition:  500ms;
+    -webkit-transition:  500ms ;
+    -moz-transition:  500ms;
+    -o-transition:  500ms;
+}
+
+i.hid {
+    opacity: 0.5;
+    color: lightcoral;
+}
+
+i.hid:onclick {
+    display: block;
+}
+
+.logo {
+    max-width: 30px;
+    position: fixed;
+    z-index: 5;
+    right: 5px;
+}
+
+.headL {
+    color: white;
+}
+#header {
+    background-color: black;
+    font-family: "Raleway", sans-serif !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 40px;
+}
+
+.headtxt {
+    font-size: 20px;
+    padding-left: 3px;
+    vertical-align: -webkit-baseline-middle;
+}
+
+.icon {
+    text-align: center;
+    font-size: 30vmin !important;
+}
+
+div.content {
+    text-align: center;
+    font-size: 30px;
+}
+
+i.hid:hover {
+    font-size: 30px !important;
+    transform: rotate(-720deg);
+    -webkit-transform: rotate(-720deg);
+    -moz-transform: rotate(-720deg);
+    -ms-transform: rotate(-720deg);
+    -o-transform: rotate(-720deg);
+
+    transition:  2000ms;
+    -webkit-transition:  2000ms ;
+    -moz-transition:  2000ms;
+    -o-transition: 2000ms;
+}
