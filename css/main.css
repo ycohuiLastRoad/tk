@@ -67,3 +67,7 @@ body::-webkit-scrollbar {
   z-index: 10;
   background-color: #000000;
 }
+
+.txtR {
+  text-align: right;
+}
