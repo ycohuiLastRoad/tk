@@ -1,0 +1,18 @@
+#header {
+    position: sticky;
+    top: 0;
+    background-color: black;
+    font-family: "Raleway";
+    font-size: 18px;
+    margin: 0 0 0 0;
+    z-index: 4;
+    line-height: 1.5;
+    overflow: auto;
+}
+
+.logo {
+    max-width: 40px;
+    position: fixed;
+    z-index: 5;
+    right: 5px;
+}

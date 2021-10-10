@@ -1,0 +1,51 @@
+body {
+    background-color: #f1f1f1;
+    margin: 0;
+    font-family: Lato;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.title {
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    color: white;
+}
+
+.content {
+    padding: 10px;
+}
+
+.content h2 {
+    padding-left: 5%;
+}
+
+form {
+    background-color: lightcyan;
+    padding: 1%;
+    width: 100%;
+}
+input[type=radio], input[type=submit], input[type=reset] {
+    width: auto;
+    font-size: 15px;
+}
+
+input, select, textarea {
+    width: 100%;
+    resize: vertical;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+form label {
+    font-size: 20px;
+    padding-top: 8px;
+    padding-bottom: 16px;
+}
