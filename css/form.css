@@ -58,4 +58,5 @@ form.tnc {
 .url {
     text-decoration: underline;
     cursor: pointer;
+    width: auto;
 }
