@@ -32,7 +32,7 @@ form {
     padding: 1%;
     width: 100%;
 }
-input[type=radio], input[type=submit], input[type=reset] {
+input[type=radio], input[type=submit], input[type=reset], input[type=checkbox] {
     width: auto;
     font-size: 15px;
 }
@@ -48,4 +48,14 @@ form label {
     font-size: 20px;
     padding-top: 8px;
     padding-bottom: 16px;
+}
+
+form.tnc {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.url {
+    text-decoration: underline;
+    cursor: pointer;
 }
