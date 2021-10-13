@@ -49,7 +49,9 @@ function mailOut() {
             rmks: comment
         })
         console.log('Done!');
+        alert('Form submitted!\nPlease wait your email.(just joking)');
     } else {
         console.log('Null!');
+        alert('Error\nPlease consider call developer');
     }
 }
