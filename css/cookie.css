@@ -1,0 +1,93 @@
+#content {
+    padding: 1%
+}
+
+#cookieBar {
+    overflow-wrap: break-word;
+    padding: 1%;
+    position: sticky;
+    bottom: 0;
+    background-color: #404040;
+    color: #FFF;
+}
+
+/* model box */
+/* #cookiePref {
+    display: block;
+    position: relative;
+    z-index: 10;
+    margin: 0 auto;
+    width: 500px;
+    top: 25%;
+    padding: 10px;
+    -webkit-box-shadow:0 0 10px rgba(0,0,0,0.4);
+    -moz-box-shadow:0 0 10px rgba(0,0,0,0.4); 
+    box-shadow:0 0 10px rgba(0,0,0,0.4);
+
+    background-color: #3c3c3c;
+    color: #FFF;
+} */
+
+.cookieContainer {
+    /* ref w3 modal box */
+    display: none; /*none:preset*/
+    position: fixed;
+    z-index: 10;
+    padding: 5% 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #00000099;
+}
+
+.cookieTxt {
+    background-color: #70651e;
+    font-family: "Open Sans";
+    color:#FFF;
+    position: relative;
+    margin: auto;
+    padding: 1%;
+    width: 80%;
+    animation: 150ms;
+}
+
+.cookieHead {
+    font-size: x-large;
+    font-family: "Raleway";
+    background-color: #a38d00;
+    color: #000000;
+}
+
+button {
+    float: right;
+    padding: 1px;
+    align-items: center;
+    background-color: #565656;
+    border: 0;
+    border-radius: 20px;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-weight: 400;
+    line-height: 15px;
+    min-height: 30px;
+    min-width: 0px;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+button:hover {
+    background-color:#3c3c3c;
+    color: #ffffff;
+}
+
+button:disabled {
+    cursor: not-allowed;
+    background-color:#3c3c3c99;
+    color: #ffffff30;
+}

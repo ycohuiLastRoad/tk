@@ -1,3 +1,5 @@
+
+/* header.css */
 #header {
     position: sticky;
     top: 0;
@@ -15,4 +17,22 @@
     position: fixed;
     z-index: 5;
     right: 5px;
+    top: 1px;
+}
+/* header.css */
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+    margin: 0;
+}
+
+.title {
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    color: white;
 }
