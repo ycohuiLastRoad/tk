@@ -25,7 +25,7 @@ function cvExcel() {
 function cvJs() {
   var cvJs = document.getElementById("cHoverJs");
   if (cvJs.innerHTML === "true === 1 output false") {
-    cvJs.innerHTML = "Javascript (which now using)";
+    cvJs.innerHTML = "Plain Js";
   } else {
      cvJs.innerHTML = "true === 1 output false"
   }
