@@ -1,8 +1,10 @@
 .clock {
-    	font-family: 'Digital-7';
+    font-family: 'Digital-7';
 }
 
 .centre {
-    	text-align: center; 
-    	font-size: 120px;
+    text-align: center; 
+    font-size: 120px;
+    color: red;
+    background-color: black;
 }
