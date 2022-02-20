@@ -8,3 +8,8 @@
     color: red;
     background-color: black;
 }
+
+span {
+    display: inline-block;
+    width: 350px;
+}
