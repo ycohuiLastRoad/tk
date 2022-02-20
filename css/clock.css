@@ -1,11 +1,3 @@
-@font-face {
-    font-family: 'Digital-7';
-    src: url('/acad/file/Font/Digital-7.eot');
-    src: url('/acad/file/Font/Digital-7.eot?#iefix') format('embedded-opentype'),
-        url('/acad/file/Font/Digital-7.woff2') format('woff2'),
-        url('/acad/file/Font/Digital-7.woff') format('woff');
-}
-
 .clock {
     	font-family: 'Digital-7';
 }
