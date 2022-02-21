@@ -11,5 +11,11 @@
 
 span {
     display: inline-block;
-    width: 390px;
+}
+
+td.n {
+	min-width: 58px;
+}
+td.c {
+	width: 20px;
 }
